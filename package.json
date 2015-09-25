@@ -2,7 +2,7 @@
   "name": "cookie-session",
   "description": "cookie session middleware",
   "repository": "expressjs/cookie-session",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "keywords": [
     "connect",
     "express",
@@ -11,14 +11,14 @@
   ],
   "dependencies": {
     "cookies": "0.5.0",
-    "debug": "~2.1.0",
+    "debug": "~2.2.0",
     "on-headers": "~1.0.0"
   },
   "devDependencies": {
     "connect": "3",
-    "istanbul": "0.3.2",
-    "mocha": "~2.0.1",
-    "supertest": "~0.14.0"
+    "istanbul": "0.3.17",
+    "mocha": "2.2.5",
+    "supertest": "1.0.1"
   },
   "files": [
     "HISTORY.md",
